@@ -130,3 +130,6 @@ dmypy.json
 
 # PyCharm
 .idea
+
+# configuration file with API key/secret
+config.py
